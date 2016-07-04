@@ -34,3 +34,26 @@ img {
 	text-align: right;
 	font-weight: bold;
 }
+
+nav ul, footer ul {
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a{
+	color: #199C8A;
+}
+nav a:link{
+	text-decoration: none;
+}
+nav a:visited{
+	text-decoration: none;
+}
+nav a:hover{
+	text-decoration: underline;
+}

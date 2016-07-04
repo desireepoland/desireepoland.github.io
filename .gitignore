@@ -1,1 +1,5 @@
 *DS_Store
+_site/
+build/*
+serve/*
+.sass-cache/*
