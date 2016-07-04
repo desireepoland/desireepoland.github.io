@@ -1,2 +1,9 @@
-name: Desiree Poland
+# Site Settings
+title: Desiree Poland
+email: desireepoland@gmail.com
+description: "Hi, I'm Desiree! I'm a full stack software developer in Seattle, driven to learn more each day, excited about meeting new challenges, and passionate about blending logic and creativity to solve problems and build awesome products."
+url: "http://desireepoland.com"
+
+# Build Settings
 markdown: kramdown
+permalink: pretty
