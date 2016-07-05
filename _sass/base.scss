@@ -37,11 +37,28 @@ img {
 	text-align: right;
 	font-weight: bold;
 }
-a{
+a {
 	color: #199C8A;
 }
 #markdown-container{
   @include span-columns(12);
   text-align: left;
   padding: 1em;
+}
+.about-img{
+  @include span-columns(4);
+  @include media($mobile) {
+    @include span-columns(4);
+    text-align: center;
+  }
+  padding: 1em;
+}
+.about-blurb{
+  margin-top: 1em;
+  text-align: left;
+  @include span-columns(8);
+  @include media($mobile) {
+    @include span-columns(4);
+    padding: 1em;
+  }
 }
