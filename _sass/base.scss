@@ -1,9 +1,12 @@
+$max-width:  44em;
+$padding: 16px;
+$mobile: new-breakpoint(max-width $max-width 4);
+
 body {
-	width: 960px;
 	background-color: #f7f9f9;
 	font-family: 'Raleway', Helvetica, sans-serif;
 	color: #11131b;
-	margin: 0 auto;
+	margin: 0;
 	text-align: center;
 }
 h1 {
