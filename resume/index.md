@@ -9,11 +9,11 @@ Desiree Poland
 -----
 
 ### Technical Skills
-**Languages** | Ruby, Javascript, HTML5, CSS3, exposure to Clojure, Python, Java<br>
-**Frameworks & Libraries** | Rails, Node.js, Express.js, AngularJS, Sinatra, JQuery, Bootstrap, Bourbon, Jekyll<br>
-**Testing** | Rspec, Mocha, Chai, Jasmine, Cucumber<br>
-**Databases** | PostgreSQL, SQLite3, AWS DynamoDB, AWS RDS<br>
-**Other Tools** | Git, Github, Heroku, AWS Elastic Beanstalk, TravisCI, APIs, AWS Lambda, JIRA, Confluence, Bash<br>
+**Languages** | Ruby, Javascript, HTML5, CSS3, exposure to Clojure, Python, Java  
+**Frameworks & Libraries** | Rails, Node.js, Express.js, AngularJS, Sinatra, JQuery, Bootstrap, Bourbon, Jekyll  
+**Testing** | Rspec, Mocha, Chai, Jasmine, Cucumber  
+**Databases** | PostgreSQL, SQLite3, AWS DynamoDB, AWS RDS  
+**Other Tools** | Git, Github, Heroku, AWS Elastic Beanstalk, TravisCI, APIs, AWS Lambda, JIRA, Confluence, Bash  
 **Methodologies** | Agile, Scrum, TDD, BDD, MVC, SOA, REST, Object Oriented Design, Pair Programming
 
 ### Experience

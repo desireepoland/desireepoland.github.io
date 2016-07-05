@@ -4,7 +4,7 @@ body {
 	font-family: 'Raleway', Helvetica, sans-serif;
 	color: #11131b;
 	margin: 0 auto;
-	text-align: center
+	text-align: center;
 }
 h1 {
   font-size: 32px;
@@ -56,4 +56,9 @@ nav a:visited{
 }
 nav a:hover{
 	text-decoration: underline;
+}
+#markdown-container{
+  @include span-columns(12);
+  text-align: left;
+  padding: 1em;
 }
