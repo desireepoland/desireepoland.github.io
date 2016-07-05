@@ -3,25 +3,12 @@
   {% include head.html %}
   <body>
     <div id="container">
-      <header>
-        <nav>
-        		<ul>
-            		<li><a href="/">Home</a></li>
-              	<li><a href="/about">About</a></li>
-            		<li><a href="/resume">Resume</a></li>
-            		<li><a href="/projects">Projects</a></li>
-        		</ul>
-      	</nav>
-        <hr/>
-      </header>
+      {% include header.html %}
 
-    {{content}}
+      {{content}}
 
-    <hr/>
-    <footer>
-      <p>&copy; 2016 Desiree Poland. All rights reserved.</p>
-      <p><a href="./contact.html">| Contact Me |</a></p>
-    </footer>
-  </div>
+      <hr/>
+      {% include footer.html %}
+    </div>
   </body>
 </html>
